@@ -1,11 +1,11 @@
 const mongoose = require('mongoose')
 
 const citySchema = new mongoose.Schema({
-  title: {
+  name: {
     type: String,
     required: true
   },
-  text: {
+  country: {
     type: String,
     required: true
   },
