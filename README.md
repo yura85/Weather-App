@@ -6,7 +6,7 @@ Database is deployed at https://dry-badlands-54670.herokuapp.com/
 
 ## Screnshot
 
-![alt text](https://imgur.com/wmRgpv8)
+![WeatherApp](https://imgur.com/wmRgpv8.png)
 
 ## Technologies Used
 
